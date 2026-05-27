@@ -1,4 +1,4 @@
-# Looking Alike From Far to Near: Enhancing Cross-Resolution Re-Identification via Feature Vector Panning(VPFA)
+# Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification(VPFA)
 
 1. Dataset Preprocessing
 The dataset_preprocessing directory contains code for the preprocessing and partitioning of various datasets.
